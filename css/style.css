@@ -1,0 +1,84 @@
+
+body {
+  font-family: "TASA Explorer", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+h1 {
+    font-size: 2rem;
+    color: #222;
+    text-align: center;
+}
+h2 {
+    font-size: 1.3rem;
+    color: #0077b6;
+    margin-bottom: 10px;
+}
+.bold {
+  font-weight: 600;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 30px;
+  max-width: 1400px;
+  margin: auto;
+}
+
+.columna {
+  padding: auto;
+  border: 2.5px solid #000000;
+  border-radius: 20px;
+  ; /* Para ver los bordes */
+}
+
+.columna1 { flex: auto; }
+.columna2 { flex: auto; }
+.columna3 { flex: auto; }
+
+.columna1{
+    text-align: center;
+}
+.columna2{
+    text-align: center;
+}
+.columna3{
+    text-align: center;
+}
+
+.Foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #0077b6;
+}
+.caja{
+    border: 2px solid #e0e0e0;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 10px;
+    background-color: #e0e0e0;
+}
+.cajadeitem{
+    border: 2px solid #00000057;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #c7bfb996;
+}
+.redes a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.redes a:hover {
+  color: rgb(0, 17, 255);
+}
+.icono {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
