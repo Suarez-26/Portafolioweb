@@ -3,6 +3,8 @@
 Este proyecto es mi portafolio personal en el que muestro información académica, experiencia laboral, proyectos, conocimientos, idiomas, redes sociales y formas de contacto.  
 El sitio web fue desarrollado utilizando **HTML** y **CSS** básicos, con un diseño minimalista y organizado.
 
+link de la paguina web https://quiet-alpaca-2ff2b1.netlify.app/
+
 ---
 
 ## ✨ Características
